@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/iconfinder/api-auth-server/issues"
   },
-  "homepage": "https://github.com/iconfinder/api-auth-server#readme"
+  "homepage": "https://github.com/iconfinder/api-auth-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2"
+  }
 }
