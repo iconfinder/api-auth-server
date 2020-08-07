@@ -1,0 +1,19 @@
+{
+  "name": "api-auth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iconfinder/api-auth-server.git"
+  },
+  "author": "Iconfinder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iconfinder/api-auth-server/issues"
+  },
+  "homepage": "https://github.com/iconfinder/api-auth-server#readme"
+}
