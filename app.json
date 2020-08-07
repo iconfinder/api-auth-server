@@ -1,0 +1,13 @@
+{
+    "name": "Iconfinder API auth server",
+    "description": "Authentication proxy server for the Iconfinder API v4",
+    "repository": "https://github.com/iconfinder/api-auth-server",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "iconfinder", "api"],
+    "env": {
+        "ICONFINDER_API_KEY": {
+            "description": "Your Iconfinder API key",
+            "required": true
+        }
+    }
+}
