@@ -6,7 +6,7 @@
     "keywords": ["node", "express", "iconfinder", "api"],
     "env": {
         "ICONFINDER_API_KEY": {
-            "description": "Your Iconfinder API key",
+            "description": "Your Iconfinder API key (you can get it from https://www.iconfinder.com/account/applications)",
             "required": true
         }
     }
